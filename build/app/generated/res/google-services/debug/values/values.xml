@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">208844071693-29f71mrecbnnjvlmtv1pmv4sb42dhm86.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://the-joint-app.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">208844071693</string>
+    <string name="google_api_key" translatable="false">AIzaSyB9bbckWAim2SMJWD_s6bcusAhLMuJ_BW0</string>
+    <string name="google_app_id" translatable="false">1:208844071693:android:ff0e1ad9f1eec267bf0644</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB9bbckWAim2SMJWD_s6bcusAhLMuJ_BW0</string>
+    <string name="google_storage_bucket" translatable="false">the-joint-app.appspot.com</string>
+    <string name="project_id" translatable="false">the-joint-app</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "208844071693",
+    "firebase_url": "https://the-joint-app.firebaseio.com",
+    "project_id": "the-joint-app",
+    "storage_bucket": "the-joint-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208844071693:android:ff0e1ad9f1eec267bf0644",
+        "android_client_info": {
+          "package_name": "com.example.thejointapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208844071693-5aus3n8qrasv4gu718cspj3uieau4gil.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thejointapp",
+            "certificate_hash": "15c4bd3a1d4f57d31ee280af046e30e1cd903f84"
+          }
+        },
+        {
+          "client_id": "208844071693-29f71mrecbnnjvlmtv1pmv4sb42dhm86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9bbckWAim2SMJWD_s6bcusAhLMuJ_BW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208844071693-29f71mrecbnnjvlmtv1pmv4sb42dhm86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
